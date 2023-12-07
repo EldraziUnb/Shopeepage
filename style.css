@@ -1,0 +1,229 @@
+.body{
+margin: 0;
+font-family: 'Roboto', sans-serif;
+}
+.header {
+background-color: #ff5005;
+border-bottom: 2px solid #ff5005;
+display: flex;
+justify-content: center;
+padding: 25px;
+width: 100%;
+}
+.logocontainer {
+width: 30%;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+margin-right: 40%;
+margin-top: 1%;
+}
+.logo {
+max-width: 200%;
+height: auto;
+width: 25%;
+margin-left: -140px;
+margin-top: 10px
+}
+.lefttext{
+color: white;
+font-size: 12px;
+left: 0;
+top: 0;
+position: absolute;
+margin-left: 350px;
+font-family: 'Roboto', sans-serif
+}
+.righttext {
+margin-bottom: 10px;
+text-align: right;
+color: white;
+font-size: 12px;
+right: 0;
+top: 0;
+position: absolute;
+margin-right: 350px;
+}
+.searchbar {
+width: 46%;
+margin-right: 50px;
+border: solid;
+background-color: white;
+border-color: #ff5005;
+padding-top: -10px;
+height: 50px;
+border-radius: 0;
+margin-left: -1300px;
+margin-top: 18px;
+}
+.signup {
+color: gray;
+font-size: 18px;
+margin-bottom: 1%
+}
+.category {
+margin: 20px 0;
+color: white;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-top: -20px;
+font-size:81%;
+margin-left: 38px
+}
+.category-item {
+float: left;
+width: 25%;
+padding: 10px;
+border: 1px solid #ddd;
+}
+.search{
+border: solid #ff5005;
+text-align: right;
+margin-left: 794px;
+margin-right: 10px;
+margin-top: -9%;
+right: 40px;
+padding-right: 14px;
+padding-top: 10px;
+padding-bottom: 14px;
+margin-top: -47px;
+margin-bottom: 3%;
+border-radius: 0;
+background-color: #ff5005;
+color: white;
+width: 60px
+}
+.christmas-sale{
+width: 780px;
+margin-left: 330px;
+margin-top: 10px;
+}
+.ensure{
+width: 380px;
+position: absolute;
+margin-top: 129px;
+margin-left: 5px
+}
+.razor{
+width: 380px;
+position: absolute;
+margin-top: 10px;
+margin-left: 5px
+}
+ .coins{
+  text-align: center;
+  font-size: 70%;
+  margin-top: 20px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif
+  }
+  .shipping{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -76.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  }
+  .mall{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -76.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  }
+  .coupon{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -76.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  }
+  .nine{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -76.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  }
+  .beauty{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -76.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  }
+  .style{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -80.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  left: 50%;
+  }
+.market{
+  
+  text-align: center;
+  font-size: 70%;
+  margin-top: -80.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  left: 50%;
+}
+.gadget zone{
+  text-align: center;
+  font-size: 70%;
+  margin-top: -80.77px;
+  margin-left: -10%;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  left: 50%;
+  
+}
+
+.background-items{
+  background: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: 5px;
+  height: 400px;
+  width: 1200px;
+  margin: 80px auto;
+  display: flex;
+  gap: 50px;
+text-align: center;
+}
+.background2{
+ margin-top: 200px;
+  display: flex;
+    gap: 50px;
+  text-align: center;
+padding-left: -500px; 
+position: absolute;
+
+}
+
+.shopeedisplay{
+display: inline-flex;
+  text-align: center;
+  font-size: 70%;
+  font-family: 'Roboto', sans-serif;
+margin-bottom: 20px;
+margin-top: 20px;
+margin-left: 2px;
+margin-right: 2px;
+
+
+}
+
+/* Image sources and references 
+
+https://www.w3schools.com/howto/howto_css_image_center.asp
+https://www.w3schools.com/cssref/css_colors.php
+https://www.w3schools.com/css/css_font.asp
+https://www.w3schools.com/cssref/css_colors.php
+
+
+all images were taken from the file given in canvas
+I couldnt find any other shopee logos
+*\
